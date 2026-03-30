@@ -1,0 +1,110 @@
+What is the capital of Canada?|Ottawa
+What is 2 + 2?|4
+What is the color of the sky on a clear day?|Blue
+Name a programming language starting with J?|Java
+What is the largest planet in our solar system?|Jupiter
+What is the chemical symbol for water?|H2O
+Who wrote "Hamlet"?|Shakespeare
+What is 5 x 6?|30
+What is the freezing point of water in Celsius?|0
+What is the largest ocean on Earth?|Pacific
+What is the capital of France?|Paris
+What is 3 + 5?|8
+What color are bananas when ripe?|Yellow
+Name a programming language starting with P?|Python
+What is the largest mammal?|Blue whale
+What is the chemical symbol for gold?|Au
+Who painted the Mona Lisa?|Leonardo da Vinci
+What is 9 x 7?|63
+What is the boiling point of water in Celsius?|100
+What is the smallest continent?|Australia
+What is the capital of Japan?|Tokyo
+What is 12 ÷ 4?|3
+What color are strawberries?|Red
+Name a programming language starting with C?|C++
+What is the fastest land animal?|Cheetah
+What is the chemical symbol for oxygen?|O
+Who discovered gravity?|Isaac Newton
+What is 15 + 10?|25
+How many days are in a week?|7
+What is the largest desert in the world?|Sahara
+What is the capital of Italy?|Rome
+What is 8 x 8?|64
+What color is grass?|Green
+Name a programming language starting with R?|Ruby
+What planet is known as the Red Planet?|Mars
+What is the chemical symbol for sodium?|Na
+Who wrote "1984"?|George Orwell
+What is 20 - 6?|14
+How many months are in a year?|12
+What is the longest river in the world?|Nile
+What is the capital of Germany?|Berlin
+What is 7 + 9?|16
+What color are oranges?|Orange
+Name a programming language starting with S?|Swift
+What is the largest bird?|Ostrich
+What is the chemical symbol for carbon dioxide?|CO2
+Who wrote "The Odyssey"?|Homer
+What is 6 x 6?|36
+How many hours are in a day?|24
+What is the tallest mountain in the world?|Mount Everest
+What is the capital of Spain?|Madrid
+What is 14 ÷ 2?|7
+What color is the sun often drawn as?|Yellow
+Name a programming language starting with G?|Go
+What is the largest fish?|Whale shark
+What is the chemical symbol for iron?|Fe
+Who invented the telephone?|Alexander Graham Bell
+What is 11 + 3?|14
+How many minutes are in an hour?|60
+What is the largest island in the world?|Greenland
+What is the capital of Australia?|Canberra
+What is 9 + 6?|15
+What color are blueberries?|Blue
+Name a programming language starting with K?|Kotlin
+What is the hardest natural substance?|Diamond
+What is the chemical symbol for helium?|He
+Who wrote "Macbeth"?|William Shakespeare
+What is 10 x 5?|50
+How many seconds are in a minute?|60
+What is the largest lake in the world?|Caspian Sea
+What is the capital of China?|Beijing
+What is 18 ÷ 3?|6
+What color is snow?|White
+Name a programming language starting with T?|TypeScript
+What is the largest reptile?|Saltwater crocodile
+What is the chemical symbol for nitrogen?|N
+Who painted the Starry Night?|Vincent van Gogh
+What is 4 x 9?|36
+How many continents are there?|7
+What is the deepest ocean trench?|Mariana Trench
+What is the capital of Brazil?|Brasília
+What is 13 + 7?|20
+What color are apples commonly?|Red
+Name a programming language starting with L?|Lua
+What is the smallest planet in our solar system?|Mercury
+What is the chemical symbol for silver?|Ag
+Who wrote "Pride and Prejudice"?|Jane Austen
+What is 16 ÷ 4?|4
+How many letters are in the English alphabet?|26
+What is the largest volcano in the world?|Mauna Loa
+What is the capital of India?|New Delhi
+What is 21 - 9?|12
+What color are lemons?|Yellow
+Name a programming language starting with H?|Haskell
+What is the largest cat species?|Tiger
+What is the chemical symbol for potassium?|K
+Who discovered penicillin?|Alexander Fleming
+What is 5 x 9?|45
+How many sides does a triangle have?|3
+What is the largest country by area?|Russia
+What is the capital of Mexico?|Mexico City
+What is 30 ÷ 5?|6
+What color is coal?|Black
+Name a programming language starting with D?|Dart
+What is the largest organ in the human body?|Skin
+What is the chemical symbol for calcium?|Ca
+Who wrote "The Great Gatsby"?|F. Scott Fitzgerald
+What is 8 x 12?|96
+How many planets are in our solar system?|8
+What is the tallest animal?|Giraffe
