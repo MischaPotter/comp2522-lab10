@@ -15,6 +15,7 @@ import java.util.Scanner;
  * Reads in trivia questions from quiz.txt and loads them into a map.
  *
  * @author Mischa Potter
+ * @author Nathan Babec
  * @version 1.0
  */
 public class Question

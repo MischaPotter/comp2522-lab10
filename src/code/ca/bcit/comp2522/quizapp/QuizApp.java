@@ -17,6 +17,7 @@ import java.util.Objects;
  * Demonstrates the use of JavaFX via a simple quiz game.
  *
  * @author Mischa Potter
+ * @author Nathan Babec
  * @version 1.0
  */
 public class QuizApp extends Application
